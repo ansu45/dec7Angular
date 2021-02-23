@@ -5,11 +5,11 @@ Please forgive me for my mistakes...
 I am your coward gradson Nani..
 
 rubby
-<<<<<<< HEAD
+
 rubby 
-=======
+
 rubby 
 will test branch in next line
 
 branch works;,,,,,
->>>>>>> branchtest
+
